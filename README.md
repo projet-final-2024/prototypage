@@ -2,7 +2,7 @@
 
 ## Séparation des tâches 
 - Aspect visuel produit dans TouchDesigner
-- Connexion avec la kinect
+- Connexion entre TouchDesigner et la kinect
 - Connexion entre TouchDesigner et le projecteur
 - Connexion entre Madmapper et le projecteur
 - 
